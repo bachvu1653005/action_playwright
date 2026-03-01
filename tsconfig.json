@@ -9,11 +9,10 @@
     // See also https://aka.ms/tsconfig/module
     "module": "nodenext",
     "target": "esnext",
-    "types": ["playwright"],
+    "types": ["playwright", "node"],
     // For nodejs:
     // "lib": ["esnext"],
-    // "types": ["node"],
-    // and npm install -D @types/node
+    // and npm install -D @types/node (added to devDependencies below)
 
     // Other Outputs
     "sourceMap": true,
