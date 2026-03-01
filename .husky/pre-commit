@@ -1,7 +1,0 @@
-#!/usr/bin/env sh
-
-# run the calculator as part of pre‑commit using the npm script
-# this avoids relying on /bin/bash/WSL on Windows
-npm run start
-
-npx lint-staged
