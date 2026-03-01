@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="10.53935">
+<testsuite name="basic-auth.spec.ts" timestamp="2026-02-28T11:16:55.563Z" hostname="chromium" tests="1" failures="0" skipped="0" time="5.512" errors="0">
+<testcase name="Basic Auth page › should allow access with valid credentials" classname="basic-auth.spec.ts" time="5.512">
+</testcase>
+</testsuite>
+<testsuite name="drag-and-drop.spec.ts" timestamp="2026-02-28T11:16:55.563Z" hostname="chromium" tests="1" failures="0" skipped="0" time="5.349" errors="0">
+<testcase name="Drag and Drop page › should swap the two boxes when dragged" classname="drag-and-drop.spec.ts" time="5.349">
+</testcase>
+</testsuite>
+</testsuites>
